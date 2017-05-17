@@ -23,4 +23,4 @@ If the vectors are written in the form of a matrix, it's determinant can be used
 
 Consider the vectors again x<sub>1</sub> = (1, 1, 1), x<sub>2</sub> = (1, -1, 2), and x<sub>3</sub> = (3, 1, 4)
 
-![Matrix](https://latex.codecogs.com/gif.download?%5Cbegin%7Bbmatrix%7D%201%20%26%201%20%26%203%20%5C%5C%201%20%26%20-1%20%26%201%20%5C%5C%201%20%26%202%20%26%204%20%5C%5C%20%5Cend%7Bbmatrix%7D)
+![Matrix](https://latex.codecogs.com/gif.latex?\inline&space;\begin{bmatrix}&space;1&space;&&space;1&space;&&space;3&space;\\&space;1&space;&-1&space;&&space;1&space;\\&space;1&space;&&space;2&space;&&space;4&space;\\&space;\end{bmatrix})
